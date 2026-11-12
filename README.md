@@ -53,3 +53,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+## 🐍 MY PYTHON PROJECTS
+
+| Project | Description |
+|---------|-------------|
+| Python Calculator | Simple calculator |
+| Number Guessing Game | Fun Python game |
+| Password Generator | Random password generator |
+
+---
+
+## 💻 TECHNOLOGIES
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
