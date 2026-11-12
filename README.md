@@ -20,7 +20,13 @@
 <img src="https://skillicons.dev/icons?i=python,github,vscode" />
 
 ## 📊 GITHUB STATS
+---
 
+## 🔥 MY GITHUB STREAK
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=polatjonrasulbekivich&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=polatjonrasulbekivich&show_icons=true&theme=tokyonight)
 
 ## 🌍 LOCATION
